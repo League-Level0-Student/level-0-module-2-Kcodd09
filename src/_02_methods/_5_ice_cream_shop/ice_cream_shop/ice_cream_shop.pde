@@ -12,10 +12,14 @@ void setup(){
      // Choose a different flavor for each scoop
     addScoop("chocolate");
     addScoop("vanilla");
+    addScoop("strawberry");
      // Use the method provided to add some sprinkles to your ice cream
-
+    addSprinkle(100);
      // Write code to add a cherry to the top of your ice cream. Hint: ellipse
-
+    fill(211, 34, 34);
+    ellipse(250, 30, 50, 50);
+    
+    
 }
 
 /***********  These are methods for you to use. DON'T CHANGE CODE BELOW THIS LINE !!!   *****************/
