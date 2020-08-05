@@ -24,5 +24,6 @@ public class voting_booth {
 		
 		
 		
+		
 	}		
 }
